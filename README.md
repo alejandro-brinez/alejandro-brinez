@@ -12,7 +12,7 @@ I'm a *Software Engineering* student passionate about full-stack development, sy
 - Effective team collaboration
 
 
-## Tech Stack & Tools
+## 🤖 Tech Stack & Tools
 
 * **Languages & Backend:** Python, FastAPI, JavaScript, MySQL
 
