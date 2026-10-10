@@ -11,6 +11,12 @@ I'm a *Software Engineering* student passionate about full-stack development, sy
 - Detail-oriented architecture design
 - Effective team collaboration
 
+### 🗣️ Languages
+
+- Spanish (Native)
+- English (Upper-Intermediate / B2)
+- Portuguese (Learning / Basic)
+- Russian (Learning / Basic)
 
 ## 🤖 Tech Stack & Tools
 
