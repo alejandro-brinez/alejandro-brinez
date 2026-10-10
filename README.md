@@ -26,6 +26,8 @@ I'm a *Software Engineering* student passionate about full-stack development, sy
 
 * **Environments & DevOps:** Docker, Linux Mint, Git, VirtualBox
 
+Always open to learning and adapting to new technologies.
+
 ## 🚀 Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=alejandro-brinez&show_icons=true&theme=tokyonight&hide_border=true)
 
