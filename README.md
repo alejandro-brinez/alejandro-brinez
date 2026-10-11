@@ -34,7 +34,7 @@ Always open to learning and adapting to new technologies.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alejandro-brinez&layout=compact&theme=tokyonight&hide_border=true)
 
 ## 🔗 Contact and info
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](link)
 
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-brinez/)
 
