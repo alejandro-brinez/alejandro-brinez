@@ -1,7 +1,7 @@
 
 # Alejandro Brinez 😸
 
-I'm a *Software Engineering* student passionate about full-stack development, system optimization, and application architecture. I love building functional solutions and continuously learning new technologies.
+I'm a *Software Engineering* passionate about full-stack development, system optimization, and application architecture. I love building functional solutions and continuously learning new technologies.
 
 ### 💡 Soft Skills
 
